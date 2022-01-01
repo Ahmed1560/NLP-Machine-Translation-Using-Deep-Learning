@@ -1,2 +1,2 @@
 # NLP-Machine-Translation-Using-Deep-Learning
-Nature Language Processing (NLP) has developed greatly using deep learning approaches in recent years. The machine-translation subfield has received enormous interest and a novel technique called Neural Machine Translation (NMT). However, the development process of this new technological trend has hardly been researched by a large number of research projects offered in the last couple of years.
+[Report 1.docx](https://github.com/Ahmed1560/NLP-Machine-Translation-Using-Deep-Learning/files/7798168/Report.1.docx)
